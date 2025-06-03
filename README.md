@@ -87,7 +87,7 @@ Paste the following encoded payload:
 http://untrusted.sudo.co.il/iframe.php?p=%27%3Bal%5Cu0065rt%28m%29%3B%2F%2F
 
 ---
-### 👨‍💻 Author
+## 👨‍💻 Author
 💻 Made with ❤️ by Bruno.
 
 
