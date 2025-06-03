@@ -1,4 +1,6 @@
-![XSS Challenge](https://github.com/brono4/XSS-challenges/blob/main/XSS.jpg)
+<p align="center">
+  <img src="https://github.com/brono4/XSS-challenges/blob/main/XSS.jpg?raw=true" alt="XSS Challenge">
+</p>
 
 
 
