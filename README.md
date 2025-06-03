@@ -1,4 +1,4 @@
-![XSS Challenge](https://i.imgur.com/yourimage.png)
+![XSS Challenge](https://github.com/brono4/XSS-challenges/blob/main/XSS.jpg)
 
 
 
