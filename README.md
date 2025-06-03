@@ -1,3 +1,6 @@
+![XSS Challenge](https://i.imgur.com/yourimage.png)
+
+
 
 # 🚨 Solutions of XSS Challenges of http://sudo.co.il/xss/
 
@@ -83,7 +86,7 @@ http://untrusted.sudo.co.il/iframe.php?p=%27%3Bal%5Cu0065rt%28m%29%3B%2F%2F
 
 ---
 ### 👨‍💻 Author
-💻 Made with ❤️ by Bruno (aka XSS Hunter)
+💻 Made with ❤️ by Bruno.
 
 
 
