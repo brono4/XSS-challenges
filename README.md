@@ -3,7 +3,7 @@ description: XSS Challenges and solutions for learning web security and bug boun
 
 keywords: XSS, Cross Site Scripting, bug bounty, cyber security, CTF, XSS challenges, XSS labs, ethical hacking, sudo.co.il ,solution ,solution of sudo.co.il
 -->
-
+<meta name="google-site-verification" content="C5s_hrYa1rjXyCtcpUoMUywUrNzO7MKoBxQtckOCiZ4" />
 
 <p align="center">
   <img src="https://github.com/brono4/XSS-challenges/blob/main/XSS.jpg?raw=true" alt="XSS Challenge">
