@@ -12,7 +12,7 @@
 **Our goal is to trigger a popup displaying  — all without requiring any user interaction! 🚫🖱️**
 
 
-## ## 🔓 Challenge Solutions
+##  🔓 Challenge Solutions
 
 - Level 0 🧪
 ```
