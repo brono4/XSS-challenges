@@ -1,7 +1,7 @@
 <!-- 
 description: XSS Challenges and solutions for learning web security and bug bounty. Practice real-world XSS attacks.
 
-keywords: XSS, Cross Site Scripting, bug bounty, cyber security, CTF, XSS challenges, XSS labs, ethical hacking
+keywords: XSS, Cross Site Scripting, bug bounty, cyber security, CTF, XSS challenges, XSS labs, ethical hacking, sudo.co.il ,solution ,solution of sudo.co.il
 -->
 
 
